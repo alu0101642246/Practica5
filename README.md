@@ -1,6 +1,7 @@
 # Práctica 5
 
-APKs: `./APKs/hello_cardboard.apk`, `./APKs/escena.apk`  
+APKs: `./APKs/hello_cardboard.apk`, `./APKs/escena.apk`
+En el GitHub están en Releases, por su tamaño.
 Scripts: `./Scripts/movePlayer.cs`, `./Scripts/recolectable.cs`, `./Scripts/cofre.cs`
 
 ![Práctica 5](./GIFs/1.gif)
